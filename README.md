@@ -11,7 +11,7 @@
   - ![image](https://user-images.githubusercontent.com/82785321/126535409-a9d20e81-7b15-48d1-93a0-2923ee09010c.png)
   - The two figures below shows trips by gender. There are more male users than female users, and both genders' biking schedule are similiar.
   - ![image](https://user-images.githubusercontent.com/82785321/126536358-16538702-0161-473e-b4c5-064bf1c71dd3.png)
-  - ![image](https://user-images.githubusercontent.com/82785321/126536437-e4c39337-0416-4617-8db4-274fc90e52ea.png)
+   ![image](https://user-images.githubusercontent.com/82785321/126536437-e4c39337-0416-4617-8db4-274fc90e52ea.png)
   - The figure below shows the trips by weekday per hour. Users prefer biking on Saturday. And the peak period is 5 p.m to 6 p.m throughout the week.
   - ![image](https://user-images.githubusercontent.com/82785321/126535686-6739bbbb-614c-4299-834c-c0b48d3f9efa.png)
   - The figure below shows the user trips by gender by weekend. There are more subscribers than customers. And males have the greatest proportion.
