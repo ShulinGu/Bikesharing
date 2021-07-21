@@ -16,8 +16,10 @@
   - ![image](https://user-images.githubusercontent.com/82785321/126535686-6739bbbb-614c-4299-834c-c0b48d3f9efa.png)
   - The figure below shows the user trips by gender by weekend. There are more subscribers than customers. And males have the greatest proportion.
   - ![image](https://user-images.githubusercontent.com/82785321/126536988-9509872a-3046-4c07-8a95-11400ff66ce3.png)
-  - The figure below shows the bike repairs.
+  - The figure below shows how often each bike is used, and which ones are used most frequently.
   - ![image](https://user-images.githubusercontent.com/82785321/126537045-45ab4af8-e490-4c21-ac53-acda4ed5d25d.png)
-
 ## Summary:
-  - 
+  - Accourding to the set of visualizations we get for the NYC Citibike analysis, it clearly shows that the males are the main users. We recommend the inversots to find a way to encourage more female users of biking.
+  - The peak biking period is on weekends and 5-6 p.m everyday. This is the time when users finish their work.
+  - An additional visualization can be done by summarizing the trips by user ages.
+  - Another visualization can be done by summarizing the most frequent locations the users prefer of biking.
